@@ -1,0 +1,4 @@
+#!/bin/python3.8
+
+import login
+login.Login()
